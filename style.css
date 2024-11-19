@@ -4,11 +4,7 @@ body{
     font-family:antiquewhite
     margin: 0px;
     margin-bottom:100px;
-
-
 }
-
-
 
 .chamada{
     background: black(156, 156, 213)
@@ -17,3 +13,16 @@ body{
     display: flex;
     justify-content: center;
 }
+
+header{
+font-size: 35px;
+color: brown;
+border-bottom: solid 3px white;
+padding: 20px
+}
+
+h1{
+    font-size: 40px;
+}
+.chamada-texto
+margin
